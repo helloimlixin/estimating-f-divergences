@@ -5,7 +5,8 @@ Implementation of the paper: *Practical and Consistent Estimation of f-Divergenc
 ## Types of *f*-divergences / distances Researched
 
 - Kullback-Leibler (KL) Divergence
-- Squared Hellinger Divergence
+- Squared Hellinger Distance
+- Chi-Squared Divergence
 
 ## Experiments
 
