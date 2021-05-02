@@ -14,3 +14,7 @@ Implementation of the paper: *Practical and Consistent Estimation of f-Divergenc
 ## Run
 
 This notebook is originally developed inside in a tensorflow-gpu docker container, but should work with the CPU version.
+
+## View
+
+Sometimes the notebook does not render properly on GitHub, you can view it here: [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/helloimlixin/estimating-f-divergences/blob/main/Practical%20and%20Consistent%20Estimation%20of%20f-Divergences.ipynb)
