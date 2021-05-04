@@ -1,6 +1,6 @@
 # Estimating f-Divergences (distances)
 
-Implementation of the paper: *Practical and Consistent Estimation of f-Divergences.*
+Implementation of the paper: [*Practical and Consistent Estimation of f-Divergences*](https://papers.nips.cc/paper/2019/hash/3147da8ab4a0437c15ef51a5cc7f2dc4-Abstract.html)
 
 ## Types of *f*-divergences / distances Researched
 
